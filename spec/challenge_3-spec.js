@@ -12,5 +12,4 @@ describe("The largest Prime Factor", function () {
     expect(primeNumber).toBe(6857);
   });
 
-
 });    
